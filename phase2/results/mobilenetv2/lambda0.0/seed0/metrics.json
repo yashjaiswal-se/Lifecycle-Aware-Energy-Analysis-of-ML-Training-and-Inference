@@ -1,0 +1,10 @@
+{
+  "model": "mobilenetv2",
+  "lambda": 0.0,
+  "seed": 0,
+  "accuracy": 83.4,
+  "training_time_sec": 2434.349352121353,
+  "training_energy_j": 98105.82785985064,
+  "training_energy_kj": 98.10582785985065,
+  "max_epochs": 100
+}

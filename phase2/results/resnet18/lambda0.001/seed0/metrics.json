@@ -1,0 +1,10 @@
+{
+  "model": "resnet18",
+  "lambda": 0.001,
+  "seed": 0,
+  "accuracy": 82.62,
+  "training_time_sec": 1068.211784362793,
+  "training_energy_j": 71827.37252266955,
+  "training_energy_kj": 71.82737252266955,
+  "max_epochs": 25
+}
